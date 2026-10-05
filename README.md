@@ -9,9 +9,9 @@
 
 ---
 
-Most of what I've made is small — side projects I started to learn something, and then kept going far longer than I meant to. Nothing here is finished. I'm mostly here to keep notes in a place I can find them again.
-
 ## 🎯 Things I Play With
+
+Most of what I've made is small — side projects I started to learn something, and then kept going far longer than I meant to. Nothing here is finished. I'm mostly here to keep notes in a place I can find them again.
 
 - 🤖 Small agent and AI tooling experiments
 - 🗺 Geospatial things — QGIS, GDAL, maps
