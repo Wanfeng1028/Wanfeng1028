@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Wanfeng1028/Spark">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Wanfeng+%28%E6%99%9A%E9%A3%8E%29.&Learning+in+public.&" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1500&center=true&vCenter=true&width=480&lines=Welcome." alt="Welcome" />
 </p>
 
 <p align="center">
