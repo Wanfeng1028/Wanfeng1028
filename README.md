@@ -46,7 +46,6 @@ TypeScript · Go · JavaScript · Python · Vue · React · Astro · Vite · Nod
 
 <p align="center">
   <a href="https://github.com/Wanfeng1028"><img src="https://img.shields.io/badge/GitHub-Wanfeng1028-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://wanfeng1028.github.io/SpaceLab/"><img src="https://img.shields.io/badge/SpaceLab-Wanfeng1028-181717?style=flat-square&logo=googlechrome&logoColor=white" alt="SpaceLab"></a>
 </p>
 
 Happy to talk about anything small you're building. Issues on any repo are welcome — I answer them slowly.
